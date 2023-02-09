@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### 👨🏽‍💻 About me:
+### About me:
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 
